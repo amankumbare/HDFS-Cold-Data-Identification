@@ -1,8 +1,4 @@
 #####################################################################
-# This script is created to find cold data, Data which is not read for 2 months 
-# Author: Premier Support Team Cloudera #
-# Version: v0.1 #
-# Last Updated: 12/04/2019 
 #
 # Prerequisites 
 # Confirm below variables
